@@ -1,0 +1,6 @@
+Hi	 : 1
+Professor	 : 2
+this	 : 1
+is	 : 1
+pulagam	 : 1
+maheswari	 : 1
